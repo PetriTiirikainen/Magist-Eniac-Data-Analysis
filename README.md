@@ -21,10 +21,10 @@ Magist is not a straight comparable companion to Eniac because of products, volu
 
 ## Authors
 
-Adrian Mihail
-Helene Rebelo
-[Petri Tiirikainen](https://github.com/PetriTiirikainen)
-Tilman Vogel
+* Adrian Mihail
+* Helene Rebelo
+* [Petri Tiirikainen](https://github.com/PetriTiirikainen)
+* Tilman Vogel
 
 ## Licence
 This work is licensed under a Creative Commons Attribution-NoDerivatives.
